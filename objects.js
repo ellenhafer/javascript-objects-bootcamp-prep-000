@@ -10,3 +10,5 @@ function removeFromPlaylist(object, artist) {
   delete object[artist];
   return object;
 }
+
+updatePlaylist(playlist, "Bruno Mars", "Just The Way You Are");
