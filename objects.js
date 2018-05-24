@@ -12,3 +12,4 @@ function removeFromPlaylist(object, artist) {
 }
 
 console.log(updatePlaylist(playlist, "Bruno Mars", "Just The Way You Are"));
+console.log(updatePlaylist(playlist, "Eva Cassidy", "Songbird"));
