@@ -16,6 +16,6 @@ updatePlaylist(playlist, "Eva Cassidy", "Songbird");
 
 console.log(playlist);
 
-removeFromPlaylist(playlist, "Eva Cassiy");
+removeFromPlaylist(playlist, "Eva Cassidy");
 
 console.log(playlist);
