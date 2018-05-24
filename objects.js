@@ -15,3 +15,7 @@ updatePlaylist(playlist, "Bruno Mars", "Just The Way You Are");
 updatePlaylist(playlist, "Eva Cassidy", "Songbird");
 
 console.log(playlist);
+
+removeFromPlaylist(playlist, "Eva Cassiy");
+
+console.log(playlist);
