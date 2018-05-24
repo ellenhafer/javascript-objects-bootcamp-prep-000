@@ -11,5 +11,7 @@ function removeFromPlaylist(object, artist) {
   return object;
 }
 
-console.log(updatePlaylist(playlist, "Bruno Mars", "Just The Way You Are"));
-console.log(updatePlaylist(playlist, "Eva Cassidy", "Songbird"));
+updatePlaylist(playlist, "Bruno Mars", "Just The Way You Are");
+updatePlaylist(playlist, "Eva Cassidy", "Songbird");
+
+console.log(playlist);
